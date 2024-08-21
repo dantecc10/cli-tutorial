@@ -1,0 +1,4 @@
+#!/bin/sh
+# ./test/test_helper.bash
+RELATIVE_PATH="./test/"
+BUILDR="../buildr"
